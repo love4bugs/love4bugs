@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on PMU Placement Problem using MetaHeuristics.
 - 🌱 I’m currently learning AI.
-- 👯 I’m looking to collaborate on anything in AI.
+- 👯 I’m looking to collaborate on AI related.
 - 💬 Ask me anything.
 - 📫 You can reach me here: [@sainarasareddy](mailto:sainarasareddy@gmail.com)
 
